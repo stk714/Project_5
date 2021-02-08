@@ -89,10 +89,10 @@ In this section, you’ll use the MCForecastTools library to create a Monte Carl
     * Make an API call via the Alpaca SDK to get 10 years of historical closing prices for a traditional 60/40 portfolio split: 60% stocks (SPY) and 40% bonds (AGG).
     
     * Run a Monte Carlo simulation of 500 samples and 30 years for the 60/40 portfolio, and then plot the results. The following image shows the overlay line plot resulting from a simulation with these characteristics. However, because a random number generator is used to run each live Monte Carlo simulation, your image will differ slightly from this exact image:
-    ![MC Histogram]("../Images/5-4-monte-carlo-histogram.png")
+    ![MC Histogram]("./Images/5-4-monte-carlo-histogram.png")
     
     * Plot the probability distribution of the Monte Carlo simulation. The following image shows the histogram plot resulting from a simulation with these characteristics. However, because a random number generator is used to run each live Monte Carlo simulation, your image will differ slightly from this exact image:
-    ![MC Line Plot]("../Images/5-4-monte-carlo-line-plot.png")
+    ![MC Line Plot]("./Images/5-4-monte-carlo-line-plot.png")
     
     * Generate the summary statistics for the Monte Carlo simulation.
     
